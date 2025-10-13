@@ -1,32 +1,72 @@
-Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+# 👋 Hello, I'm Ali Yasser
 
-My name is Ali and I'm a Frontend Developer. I'm passionate about creating beautiful and responsive web interfaces. You can reach me at aliyasser.div@gmail.com or find me on .
-🔧 Technologies & Tools
+## 💫 Frontend Developer | React Enthusiast
 
-https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a
-https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a
-https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a
-https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a
-https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a
-https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a
-https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a
-https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a
-🎯 Currently Learning
+I'm a passionate frontend developer currently specializing in HTML, CSS, and JavaScript, with ongoing learning in React. I love creating beautiful, responsive web interfaces and continuously expanding my skills in web development.
 
-    React.js
+## 🛠️ Tech Stack & Skills
 
-    Advanced JavaScript
+### 🎯 Core Technologies
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-    Backend Development (Future Plan)
+### 🔧 Tools & Platforms
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-📫 How to reach me
+## 📚 Currently Learning
 
-    Email: aliyasser.div@gmail.com
+- ⚛️ **React.js** - Advanced concepts and hooks
+- 🎯 **JavaScript ES6+** - Modern features and best practices
+- 📱 **Responsive Design** - Mobile-first approach
+- 🐍 **Python Basics** - Programming fundamentals
 
-    LinkedIn: Ali Yasser
+## 🎯 Future Goals
 
-    GitHub: [Your GitHub Profile]
+- 🚀 Master React ecosystem
+- 🔗 Learn Backend Development (Node.js)
+- 📊 Explore databases and APIs
+- 🌐 Become Full-Stack Developer
+- 💡 Contribute to open source projects
 
-📈 GitHub Stats
-<a href="https://github.com/[YourGitHubUsername]"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourGitHubUsername]&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" /> </a> <a href="https://github.com/[YourGitHubUsername]"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ali's GitHub Stats" /> </a><!-- You can add your projects here later --><!-- <a href="https://github.com/[YourGitHubUsername]/[YourProject]"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=[YourGitHubUsername]&repo=[YourProject]&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /> </a> --><!-- links to social media icons -->[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png "LinkedIn icon without padding"
-<!-- links to your social media accounts -->[3]: https://www.linkedin.com/in/ali-yasser-b0b38138a 
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_title=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_title=true)
+
+</div>
+
+## 🌟 Featured Projects
+
+<!-- Soon to be added -->
+🚧 *Projects section under construction... Stay tuned!*
+
+## 📫 Let's Connect
+
+I'm always open to discussing web development, new opportunities, or just having a friendly chat!
+
+[![Email](https://img.shields.io/badge/Email-aliyasser.div@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aliyasser.div@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ali_Yasser-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-yasser-b0b38138a)
+[![GitHub](https://img.shields.io/badge/GitHub-Your_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+
+## 💡 Coding Philosophy
+
+> "Clean code is not written by following rules; it's written by someone who cares about craftsmanship."  
+> *Every line of code is a step toward mastery* 🚀
+
+---
+
+<div align="center">
+
+### ⚡ **Fun Fact:** I believe the best way to learn is by building real projects!
+
+![Visitors](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square)
+
+</div>
