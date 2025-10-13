@@ -7,7 +7,7 @@ https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9
 
 # مرحباً! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-اسمي علي وأنا مطور واجهة أمامية (Frontend Developer). أنا من [بلدك] وأتعلم حالياً تطوير الويب. يمكنك متابعتي على [![LinkedIn][3.2]][3].
+اسمي علي وأنا مطور واجهة أمامية (Frontend Developer). أنا من [السودان] وأتعلم حالياً تطوير الويب. يمكنك متابعتي على [![LinkedIn][3.2]][3].
 
 ## 🚀 عني
 أنا مطور واجهة أمامية متحمس، أتعلم وأطور مهاراتي باستمرار في مجال تطوير الويب. حالياً أركز على بناء أساس قوي في التقنيات الأساسية قبل الانتقال إلى frameworks متقدمة.
@@ -57,16 +57,16 @@ https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9
 </a>
 
 ## 📞 تواصل معي
-- 📧 البريد الإلكتروني: [your.email@example.com](mailto:your.email@example.com)
-- 💼 LinkedIn: [رابط LinkedIn الخاص بك](https://linkedin.com/in/yourprofile)
-- 🐦 Twitter: [@yourusername](https://twitter.com/yourusername)
+- 📧 البريد الإلكتروني: [your.email@example.com](aliyasser.dev@gmail.com)
+- 💼 LinkedIn: [https://www.linkedin.com/in/%D8%B9%D9%84%D9%8A-%D9%8A%D8%A7%D8%B3%D8%B1-24a4a5336?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://linkedin.com/in/yourprofile)
+- 🐦 Twitter: [@yourusername](#)
 
 ## 💡 اقتباس
 > "النجاح هو مجموع الجهود الصغيرة المتكررة يوماً بعد يوم" - روبرت كولير
 
 ---
 
-⭐️ من [Ali](https://github.com/YourUsername)
+⭐️ من [Ali](https://github.com/aliyasserdev-pixel)
 
 <!-- links to social media icons -->
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
