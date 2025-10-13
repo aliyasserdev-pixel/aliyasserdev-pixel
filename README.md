@@ -38,7 +38,7 @@ Almdrasa is an educational platform that aims to bridge the gap in Arabic progra
 
 - **Email**: aliyasser.div@gmail.com
 - **LinkedIn**: [Ali Yasser](https://www.linkedin.com/in/ali-yasser-b0b38138a)
-- **Website**: [Almdrasa](https://www.almdrasa.com)
+- **Website**: [Almdrasa](#)
 
 ## 📄 License
 
