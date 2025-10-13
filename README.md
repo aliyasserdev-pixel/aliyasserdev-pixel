@@ -1,108 +1,32 @@
-<h1 align="center">
-  <span style="color: #2563eb; font-weight: bold; display: inline-block; animation: float 3s ease-in-out infinite, pulse 2s ease-in-out infinite;">«علي ياسر»</span>
-  👋
-</h1>
+Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-<h3 align="center">مطور واجهات أمامية | Frontend Developer</h3>
+My name is Ali and I'm a Frontend Developer. I'm passionate about creating beautiful and responsive web interfaces. You can reach me at aliyasser.div@gmail.com or find me on .
+🔧 Technologies & Tools
 
-<p align="center">
-  مطور واجهات أمامية متحمس لبناء تجارب ويب جميلة وتفاعلية. متخصص في HTML, CSS, JavaScript وأتعلم React لتطوير مهاراتي.
-</p>
+https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a
+https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a
+https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a
+https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a
+https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a
+https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a
+https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a
+https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a
+🎯 Currently Learning
 
-## 🛠️ التقنيات والأدوات
+    React.js
 
-<div align="center">
+    Advanced JavaScript
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+    Backend Development (Future Plan)
 
-</div>
+📫 How to reach me
 
-## 📚 ما أتعلمه حالياً
+    Email: aliyasser.div@gmail.com
 
-- ⚛️ **React.js** ومفاهيمها المتقدمة
-- 🎯 **JavaScript ES6+** والميزات الحديثة
-- 🐍 **أساسيات Python** للبرمجة
-- 📱 **تصميم Responsive** متقدم
+    LinkedIn: Ali Yasser
 
-## 🎯 الأهداف المستقبلية
+    GitHub: [Your GitHub Profile]
 
-- 🚀 إتقان React وبناء مشاريع حقيقية
-- 🔗 تعلم تطوير Backend
-- 📊 تعلم قواعد البيانات
-- 🌐 تطوير تطبيقات ويب كاملة Stack
-
-## 📞 تواصل معي
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-aliyasser.div@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aliyasser.div@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ali_Yasser-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-yasser-b0b38138a)
-[![GitHub](https://img.shields.io/badge/GitHub-Your_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-
-</div>
-
-## 📊 إحصائيات GitHub
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&locale=ar)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&locale=ar)
-
-</div>
-
----
-
-<div align="center">
-
-### "التعلم رحلة مستمرة، وكل سطر كود يكتبه هو خطوة نحو الإتقان" 🚀
-
-</div>
-
-<style>
-  @keyframes float {
-    0%, 100% {
-      transform: translateY(0px);
-    }
-    50% {
-      transform: translateY(-10px);
-    }
-  }
-  
-  @keyframes pulse {
-    0%, 100% {
-      transform: scale(1);
-    }
-    50% {
-      transform: scale(1.05);
-    }
-  }
-  
-  @keyframes smoothSlide {
-    0% {
-      opacity: 0;
-      transform: translateY(-20px);
-    }
-    100% {
-      opacity: 1;
-      transform: translateY(0);
-    }
-  }
-  
-  h1, h2, h3 {
-    animation: smoothSlide 0.8s ease-out;
-  }
-  
-  p {
-    animation: smoothSlide 0.8s ease-out 0.2s both;
-  }
-  
-  .badge {
-    animation: smoothSlide 0.8s ease-out 0.4s both;
-  }
-</style>
+📈 GitHub Stats
+<a href="https://github.com/[YourGitHubUsername]"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourGitHubUsername]&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" /> </a> <a href="https://github.com/[YourGitHubUsername]"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ali's GitHub Stats" /> </a><!-- You can add your projects here later --><!-- <a href="https://github.com/[YourGitHubUsername]/[YourProject]"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=[YourGitHubUsername]&repo=[YourProject]&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /> </a> --><!-- links to social media icons -->[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png "LinkedIn icon without padding"
+<!-- links to your social media accounts -->[3]: https://www.linkedin.com/in/ali-yasser-b0b38138a 
