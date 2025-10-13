@@ -1,58 +1,32 @@
-# Almdrasa - The Learning Platform
+Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-A modern learning platform dedicated to providing high-quality programming courses in Arabic.
+My name is Ali and I'm a Frontend Developer. I'm passionate about creating beautiful and responsive web interfaces. You can reach me at aliyasser.div@gmail.com or find me on .
+🔧 Technologies & Tools
 
-## 🚀 About The Project
+https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a
+https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a
+https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a
+https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a
+https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a
+https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a
+https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a
+https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a
+🎯 Currently Learning
 
-Almdrasa is an educational platform that aims to bridge the gap in Arabic programming content by reproducing the best programming courses with high production standards including audio, video, animations, and more.
+    React.js
 
-## ✨ Features
+    Advanced JavaScript
 
-- **Carefully Selected Courses**: We pick courses with the best reviews and up-to-date curriculum
-- **High Quality Production**: Committed to creating high-quality courses in all aspects
-- **Affordable Subscription**: One yearly subscription gives access to all courses
-- **Direct Instructor Communication**: Easy communication with course instructors
-- **Achievement System**: Earn badges and prizes upon course completion
+    Backend Development (Future Plan)
 
-## 📚 Current Courses
+📫 How to reach me
 
-- HTML Fundamentals
-- CSS Fundamentals  
-- HTML & CSS Project
-- Programming Fundamentals
-- JavaScript Fundamentals
+    Email: aliyasser.div@gmail.com
 
-## 🗺️ Planned Roadmaps
+    LinkedIn: Ali Yasser
 
-- Frontend Development Roadmap
-- Backend Development Roadmap
-- Fullstack Development Roadmap
+    GitHub: [Your GitHub Profile]
 
-## 🛠️ Technologies Used
-
-- HTML5
-- CSS3
-- JavaScript
-
-## 📞 Contact
-
-- **Email**: aliyasser.div@gmail.com
-- **LinkedIn**: [Ali Yasser](https://www.linkedin.com/in/ali-yasser-b0b38138a)
-- **Website**: [Almdrasa](#)
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 👥 Contributors
-
-- **Mohamed Abusrea** - Initial work
-- **Ahmed Fathy** - Contributor
-
----
-
-<div align="center">
-  
-### ⭐️ Don't forget to give this project a star if you find it helpful!
-
-</div>
+📈 GitHub Stats
+<a href="https://github.com/[YourGitHubUsername]"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourGitHubUsername]&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" /> </a> <a href="https://github.com/[YourGitHubUsername]"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ali's GitHub Stats" /> </a><!-- You can add your projects here later --><!-- <a href="https://github.com/[YourGitHubUsername]/[YourProject]"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=[YourGitHubUsername]&repo=[YourProject]&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /> </a> --><!-- links to social media icons -->[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png "LinkedIn icon without padding"
+<!-- links to your social media accounts -->[3]: https://www.linkedin.com/in/ali-yasser-b0b38138a 
