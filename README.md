@@ -5,9 +5,9 @@ https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9
 
 [![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://your-portfolio-link.com)
 
-# مرحباً! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+# مرحباً! <img src="C:\Users\oppo\Downloads\ali2.jpg" width="30px" height="30px" />
 
-اسمي علي وأنا مطور واجهة أمامية (Frontend Developer). أنا من [السودان] وأتعلم حالياً تطوير الويب. يمكنك متابعتي على [![LinkedIn][3.2]][3].
+اسمي علي وأنا مطور واجهة أمامية (Frontend Developer). أنا من [السودان] وأتعلم حالياً تطوير الويب. يمكنك متابعتي على [![www.linkedin.com/in/ali-yasser-b0b38138a][3.2]][3].
 
 ## 🚀 عني
 أنا مطور واجهة أمامية متحمس، أتعلم وأطور مهاراتي باستمرار في مجال تطوير الويب. حالياً أركز على بناء أساس قوي في التقنيات الأساسية قبل الانتقال إلى frameworks متقدمة.
