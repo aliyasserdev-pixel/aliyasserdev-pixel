@@ -7,7 +7,7 @@ https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9
 
 # مرحباً! <img src="C:\Users\oppo\Downloads\ali2.jpg" width="30px" height="30px" />
 
-اسمي علي وأنا مطور واجهة أمامية (Frontend Developer). أنا من [السودان] وأتعلم حالياً تطوير الويب. يمكنك متابعتي على [![www.linkedin.com/in/ali-yasser-b0b38138a][3.2]][3].
+اسمي علي وأنا مطور واجهة أمامية (Frontend Developer). أنا من [السودان] وأتعلم حالياً تطوير الويب. يمكنك متابعتي على[www.linkedin.com/in/ali-yasser-b0b38138a]
 
 ## 🚀 عني
 أنا مطور واجهة أمامية متحمس، أتعلم وأطور مهاراتي باستمرار في مجال تطوير الويب. حالياً أركز على بناء أساس قوي في التقنيات الأساسية قبل الانتقال إلى frameworks متقدمة.
@@ -58,7 +58,7 @@ https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9
 
 ## 📞 تواصل معي
 - 📧 البريد الإلكتروني: [your.email@example.com](aliyasser.dev@gmail.com)
-- 💼 LinkedIn: [https://www.linkedin.com/in/%D8%B9%D9%84%D9%8A-%D9%8A%D8%A7%D8%B3%D8%B1-24a4a5336?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://linkedin.com/in/yourprofile)
+- 💼 LinkedIn: [www.linkedin.com/in/ali-yasser-b0b38138a]
 - 🐦 Twitter: [@yourusername](#)
 
 ## 💡 اقتباس
