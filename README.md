@@ -23,7 +23,6 @@ I'm a passionate frontend developer currently specializing in HTML, CSS, and Jav
 - ⚛️ **React.js** - Advanced concepts and hooks
 - 🎯 **JavaScript ES6+** - Modern features and best practices
 - 📱 **Responsive Design** - Mobile-first approach
-- 🐍 **Python Basics** - Programming fundamentals
 
 ## 🎯 Future Goals
 
