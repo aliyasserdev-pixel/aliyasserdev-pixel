@@ -61,8 +61,8 @@ Here are a few of the projects I've worked on:
 I'm always open to new opportunities and collaborations. Feel free to reach out!
 
 - 📧 Email: [ali.yasser@example.com](mailto:ali.yasser@example.com)
-- 💼 LinkedIn: [linkedin.com/in/aliyasser](https://linkedin.com/in/aliyasser)
-- 🐦 Twitter: [@aliyasserdev](https://twitter.com/aliyasserdev)
+- 💼 LinkedIn: [linkedin.com/in/aliyasser](https://www.linkedin.com/in/ali-yasser-b0b38138a/)
+- 🐦 Twitter: [@aliyasserdev](https://x.com/AliYasser_div)
 - 🌐 Portfolio: [aliyasser.dev](https://aliyasser.dev)
 
 ---
