@@ -24,7 +24,7 @@ I'm a passionate **Frontend Developer** who enjoys building responsive and user-
 - 🌱 I’m currently learning and growing as a developer
 - 👯 I’m open to collaborating on interesting web projects
 - 💬 Ask me about HTML, CSS, JavaScript, React
-- 📫 How to reach me: [ali.yasser@example.com](mailto:ali.yasser@example.com)
+- 📫 How to reach me: [ali.yasser@example.com](mailto:aliyasser.dev@gmail.com)
 - ⚡ Fun fact: I love solving UI design challenges
 
 ---
@@ -62,7 +62,7 @@ I'm always open to new opportunities and collaborations. Feel free to reach out!
 
 - 📧 Email: [ali.yasser@example.com](mailto:aliyasser.dev@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/aliyasser](https://www.linkedin.com/in/ali-yasser-b0b38138a/)
-- 🐦 Twitter: [@aliyasserdev](https://https://x.com/AliYasser_div)
+- 🐦 Twitter: [@aliyasserdev](https://x.com/AliYasser_div)
 - 🌐 Portfolio: [aliyasser.dev](https://aliyasserdev-pixel.github.io/)
 
 ---
